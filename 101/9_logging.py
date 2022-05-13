@@ -3,6 +3,7 @@
 
 
 import logging
+
 if __name__ == '__main__':
     logger = logging.getLogger("my_logger")
     logger.setLevel(logging.DEBUG)
